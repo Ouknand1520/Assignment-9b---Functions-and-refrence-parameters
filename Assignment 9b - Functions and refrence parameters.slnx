@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assignment 9b - Functions and refrence parameters/Assignment 9b - Functions and refrence parameters.vcxproj" />
+</Solution>
