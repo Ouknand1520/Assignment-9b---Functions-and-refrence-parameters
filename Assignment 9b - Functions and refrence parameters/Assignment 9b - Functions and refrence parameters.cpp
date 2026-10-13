@@ -1,5 +1,10 @@
-// Assignment 9b - Functions and refrence parameters.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Nathan 
+// Ouk
+// 0834524@my.msjc.edu
+// 10/13/2026
+// Assignment #9b - Functions and reference parameters
+// Assignment #9b - Write a function called decode that will decode a nine character string into three seperate int value codes, breaking the nine characters into three seperate codes by summing each set of 3 numbers.
+
 
 #include <iostream>
 #include <string>
